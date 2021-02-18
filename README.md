@@ -10,6 +10,8 @@
 ![main](/output/5.png)
 ![main](/output/10.png)
 <br/>
+Below are generated vs real samples at different training steps
+<br/>
 Iteration 100
 <br/>
 ![hi](/output/iter_100.png)
