@@ -1,7 +1,6 @@
 # PixelGAN
 16 by 16 pixel flowers generation using WGAN-GP. The project is best described with pictures below. All the flowers are GAN generated meaning they don't exist in real world! Note that with the generator, I can generate infinitely unique flowers. Here are some of my favorites. <br/>
 [Link to Google Colab Notebook](https://colab.research.google.com/drive/1Q5RnFuy6C4dfmyuiHDeFNIpotDYohCi6?usp=sharing)
-
 ![main](/output/1.png)
 ![main](/output/77.png)
 ![main](/output/88.png)
@@ -14,7 +13,6 @@
 ![main](/output/11.png)
 ![main](/output/5.png)
 ![main](/output/10.png)
-
 <br/>
 Below are generated vs real samples at different training steps
 <br/>
