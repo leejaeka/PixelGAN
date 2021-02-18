@@ -1,6 +1,10 @@
 # PixelGAN
  pixel flowers generation using WGAN-GP. The project is best described with pictures below.
- 
+
+![main](/output/1.PNG)
+![main](/output/2.PNG)
+![main](/output/3.PNG)
+![main](/output/4.PNG)
 
 ## Dataset 
 100 (16 x 16)pixels flower art by a user BTL games from Itch.io. [Link](https://btl-games.itch.io/pixel-art-fauna-asset-pack)
