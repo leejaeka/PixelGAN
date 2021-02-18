@@ -34,6 +34,8 @@ Iteration 2000
 <br/>
 Iteration 4000
 <br/>
+As we go Deeper into training, we can start seeing some crazy but pretty flowers
+<br/>
 ![main](/output/iter_4000.png)
 
 
