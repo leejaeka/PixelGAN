@@ -11,7 +11,7 @@
 ![main](/output/10.png)
 
 <br>
-![main](/output/iter_100.png)
+![main](/output/iter_100.PNG)
 ![main](/output/iter_300.png)
 ![main](/output/iter_600.png)
 ![main](/output/iter_900.png)
