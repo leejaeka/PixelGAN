@@ -1,9 +1,13 @@
 # PixelGAN
 16 by 16 pixel flowers generation using WGAN-GP. The project is best described with pictures below. All the flowers are GAN generated meaning they don't exist in real world! Note that with the generator, I can generate infinitely unique flowers. Here are some of my favorites. <br/>
 [Link to Google Colab Notebook](https://colab.research.google.com/drive/1Q5RnFuy6C4dfmyuiHDeFNIpotDYohCi6?usp=sharing)
-
+<br/>
 ![main](/output/1.png)
 ![main](/output/77.png)
+![main](/output/88.png)
+![main](/output/12.png)
+![main](/output/14.png)
+![main](/output/13.png)
 ![main](/output/3.png)
 ![main](/output/2.png)
 ![main](/output/9.png)
@@ -39,9 +43,15 @@ As we go Deeper into training, we can start seeing some crazy but pretty flowers
 <br/>
 ![main](/output/iter_4000.png)
 <br/>
+Iteration 14000
+<br/>
+![main](/output/iter_14000.png)
+<br/>
 Plot of Criterion_Loss vs Generator_Loss (x-axis scaled by 1/300)
 <br/>
 ![main](/output/graphy.png)
+<br/>
+
 
 ## Dataset 
 100 (16 x 16)pixels flower art by a user BTL games from Itch.io. [Link](https://btl-games.itch.io/pixel-art-fauna-asset-pack)
