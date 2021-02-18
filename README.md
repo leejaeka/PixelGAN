@@ -9,13 +9,29 @@
 ![main](/output/11.png)
 ![main](/output/5.png)
 ![main](/output/10.png)
-
-<br>
-![main](/output/iter_100.PNG)
+<br/>
+Iteration 100
+<br/>
+![hi](/output/iter_100.png)
+<br/>
+Iteration 300
+<br/>
 ![main](/output/iter_300.png)
+<br/>
+Iteration 600
+<br/>
 ![main](/output/iter_600.png)
+<br/>
+Iteration 900
+<br/>
 ![main](/output/iter_900.png)
+<br/>
+Iteration 2000
+<br/>
 ![main](/output/iter_2000.png)
+<br/>
+Iteration 4000
+<br/>
 ![main](/output/iter_4000.png)
 
 
