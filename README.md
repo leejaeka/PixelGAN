@@ -1,21 +1,39 @@
 # PixelGAN
- pixel flowers generation using WGAN-GP. The project is best described with pictures below.
+ pixel flowers generation using WGAN-GP. The project is best described with pictures below. All the flowers are GAN generated meaning they don't exist in real world! Note that with the generator, I can generate infinite unique pixel flowers. Here are some of my favorites.
 
 ![main](/output/1.png)
-![main](/output/2.png)
+![main](/output/77.png)
 ![main](/output/3.png)
-![main](/output/4.png)
+![main](/output/2.png)
 ![main](/output/9.png)
-![main](/output/8.png)
+![main](/output/11.png)
 ![main](/output/5.png)
 ![main](/output/10.png)
-
-<br>
-![main](/output/iter_100.png)
+<br/>
+Below are generated vs real samples at different training steps
+<br/>
+Iteration 100
+<br/>
+![hi](/output/iter_100.png)
+<br/>
+Iteration 300
+<br/>
 ![main](/output/iter_300.png)
+<br/>
+Iteration 600
+<br/>
 ![main](/output/iter_600.png)
+<br/>
+Iteration 900
+<br/>
 ![main](/output/iter_900.png)
+<br/>
+Iteration 2000
+<br/>
 ![main](/output/iter_2000.png)
+<br/>
+Iteration 4000
+<br/>
 ![main](/output/iter_4000.png)
 
 
