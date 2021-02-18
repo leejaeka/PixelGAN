@@ -4,12 +4,17 @@
 
 ![main](/output/1.png)
 ![main](/output/77.png)
+![main](/output/88.png)
+![main](/output/12.png)
+![main](/output/14.png)
+![main](/output/13.png)
 ![main](/output/3.png)
 ![main](/output/2.png)
 ![main](/output/9.png)
 ![main](/output/11.png)
 ![main](/output/5.png)
 ![main](/output/10.png)
+
 <br/>
 Below are generated vs real samples at different training steps
 <br/>
