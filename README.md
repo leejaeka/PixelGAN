@@ -41,7 +41,7 @@ As we go Deeper into training, we can start seeing some crazy but pretty flowers
 <br/>
 Plot of Criterion_Loss vs Generator_Loss (x-axis scaled by 1/300)
 <br/>
-![main](/output/graph.png)
+![main](/output/graphy.png)
 
 ## Dataset 
 100 (16 x 16)pixels flower art by a user BTL games from Itch.io. [Link](https://btl-games.itch.io/pixel-art-fauna-asset-pack)
