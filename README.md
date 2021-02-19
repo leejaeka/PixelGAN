@@ -15,6 +15,17 @@
 ![main](/output/5.png)
 ![main](/output/10.png)
 <br/>
+With Background filters
+<br/>
+![main](/output/ex1.png)
+![main](/output/res1.png)
+<br/>
+![main](/output/ex2.png)
+![main](/output/res2.png)
+<br/>
+![main](/output/ex3.png)
+![main](/output/res3.png)
+<br/>
 Below are generated vs real samples at different training steps
 <br/>
 Iteration 100
